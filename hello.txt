@@ -10,5 +10,3 @@ Hello Git, Hello Lin!
 Hello Git, Hello Lin!
 Hello Git, Hello Lin!
 Hello Git, Hello Lin!
-Hello Git, Hello Lin!
-Hello Git, Hello Lin!
